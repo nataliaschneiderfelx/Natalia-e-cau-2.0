@@ -1,2 +1,2 @@
-deu certo
-natalia n30  cauã n06
+alert('deu certo')
+('natalia n30  cauã n06')
